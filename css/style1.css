@@ -1,11 +1,11 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jp') repeat;
+	color: #FFFFFF ;
+	background: #67655D url('img/bg-texture.jp') repeat;
 }
 
 a {
-	color: #4FB69F;
+	color: #E8E8E8 ;
 	text-decoration: none;
 }
 
@@ -16,12 +16,12 @@ h1 {
 
 h2{
 	font-size: 1.500em;
-	color: #B4C34F;
+	color: #E8E8E8;
 }
 
 .btn {
-	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	color: #FFFFFF;
+	background: #A00000  url('img/texture.png') no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 25px;
@@ -29,7 +29,7 @@ h2{
 }
 
 .btn:hover {
-	background-color: #4CC4A7;
+	background-color: ##FFFFFF;
 }
 
 ul.nav {
